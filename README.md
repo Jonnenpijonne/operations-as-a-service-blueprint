@@ -1,4 +1,4 @@
-﻿# OaaS â€” Operations as a Service Blueprint
+# OaaS — Operations as a Service Blueprint
 
 **Public-safe operations model for small regulated IT, platform and DevSecOps environments.**
 
