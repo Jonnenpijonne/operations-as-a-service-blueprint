@@ -123,7 +123,10 @@ RBAC-Lite = access-control governance
 ESP32 lab = edge-device governance
 Local-First WordPress DevSecOps Kit = safe local development baseline
 OaaS = operational ownership, runbooks, service reviews, escalation and evidence
+Security Control Plane = cross-system incident, ticket, governance and evidence linkage
 ```
+
+See [Security Control Plane — Portfolio Integration Demo](https://github.com/Jonnenpijonne/security-control-plane-portfolio) for a synthetic, validated example of how these operational records can be connected without replacing their authoritative source systems.
 
 ---
 
